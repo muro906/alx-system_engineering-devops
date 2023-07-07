@@ -5,3 +5,4 @@
 4.List all directory contents in long format including hidden files
 5.List contents with uid and gid
 6.Create a new directory
+7.Move a file
