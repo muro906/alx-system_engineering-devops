@@ -8,3 +8,4 @@
 7.Move a file
 8.Delete a file
 9.Delete a directory
+10.Change to previous working directory
