@@ -6,3 +6,4 @@
 5.List contents with uid and gid
 6.Create a new directory
 7.Move a file
+8.Delete a file
