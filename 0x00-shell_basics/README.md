@@ -13,3 +13,4 @@
 12.Print the type of file
 13.Create a symbolic link
 14.Copy html files
+15.copy uppercase files
