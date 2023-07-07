@@ -7,3 +7,4 @@
 6.Create a new directory
 7.Move a file
 8.Delete a file
+9.Delete a directory
