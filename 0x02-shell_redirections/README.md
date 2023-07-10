@@ -4,4 +4,5 @@
 4.Display two files
 5.Display last 10 lines
 6.Display first 10 lines
-3.Third line of file iacta
+7.Third line of file iacta
+9.Save current state of directory
